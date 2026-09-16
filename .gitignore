@@ -21,5 +21,6 @@ wandb/
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
 *.swp
+config.bat
+node_modules
